@@ -1,0 +1,10 @@
+{
+    "primary": ["Happy", "Surprised", "Bad", "Fearful", "Angry", "Disgusted", "Sad"],
+    "secondary": {"Happy": ["Playful", "Content", "Interested", "Proud", "Accepted", "Powerful", "Peaceful", "Trusting", "Optimistic"], 
+                  "Surprised": ["Startled", "Confused", "Amazed", "Excited"], 
+                  "Bad": ["Tired", "Stressed", "Busy", "Bored"],
+                  "Fearful": ["Scared", "Anxious", "Insecure", "Weak", "Rejected", "Threatened"],
+                  "Angry": ["Let down", "Humiliated", "Bitter", "Mad", "Aggressive", "Frustrated", "Distant", "Critical"],
+                  "Disgusted": ["Disapproving", "Dissappointed", "Awful", "Repelled"],
+                  "Sad": ["Hurt", "Depressed", "Guilty", "Despair", "Vulnerable", "Lonely"]}
+}
